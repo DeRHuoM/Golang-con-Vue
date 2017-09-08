@@ -58,4 +58,7 @@ en esta carpeta ejecutar
 npm install
 npm run dev
 
+Verifica su funcionamiento
+
+http://localhost:8080
 
