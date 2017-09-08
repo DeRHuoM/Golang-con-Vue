@@ -4,7 +4,9 @@ Implemetacion simple de Front end Vue js con Back End Golang Gin Gorm
 El projecto se divide en dos partes Front End y Back End
 Se debe tener instalado golang y postgres
 
-# 0.En la base de datos postgres se debe tener creada una base de datos llamada tabla
+# 0.Base de datos
+
+En la base de datos postgres se debe tener creada una base de datos llamada tabla
 
 En la carpera de golang usr/Projects copiar esta carpeta
 Direccion relativa
