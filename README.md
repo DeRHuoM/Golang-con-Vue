@@ -6,7 +6,7 @@ Se debe tener instalado golang y postgres
 
 # 0.Base de datos
 
-En la base de datos postgres se debe tener creada una base de datos llamada tabla
+En la base de datos postgres se debe tener creada una base de datos llamada tienda
 
 En la carpera de golang usr/Projects copiar esta carpeta
 Direccion relativa
