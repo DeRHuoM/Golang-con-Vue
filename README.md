@@ -13,7 +13,8 @@ Direccion relativa
 # 1. Back end
 
 Se debe instalar las librerias gin y gorm
-Comandos para ejecucion de esto
+Comandos para instalar paquetes:
+
 go get "github.com/gin-gonic/gin"
 go get "github.com/jinzhu/gorm"
 
@@ -25,9 +26,12 @@ Podre una direccion relativa como ejemplo donde se deben situar
 Compilar el archivo Principal.go
 
 go build Principal.go
+
 //En windows
 webservice.exe
+
 //En linux
+
 ./webservice
 
 Verificar que el servidor funciona con el navegador
@@ -56,7 +60,9 @@ Podre una direccion relativa como ejemplo donde se deben situar
 ../go/src/Projects/Golang-con-Vue/FrontEnd/paginaweb
 
 en esta carpeta ejecutar 
+
 npm install
+
 npm run dev
 
 Verifica su funcionamiento
