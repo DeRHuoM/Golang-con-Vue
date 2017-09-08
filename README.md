@@ -18,6 +18,7 @@ Se debe instalar las librerias gin y gorm
 Comandos para instalar paquetes:
 
 go get "github.com/gin-gonic/gin"
+
 go get "github.com/jinzhu/gorm"
 
 Podre una direccion relativa como ejemplo donde se deben situar
